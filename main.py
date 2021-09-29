@@ -1,3 +1,4 @@
+import apikeys
 import wavelink as wavelink
 
 from strings import *
